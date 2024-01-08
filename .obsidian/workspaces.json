@@ -1,0 +1,348 @@
+{
+  "workspaces": {
+    "HTB Academy": {
+      "main": {
+        "id": "38728355c5303f48",
+        "type": "split",
+        "children": [
+          {
+            "id": "6b812610fecd8592",
+            "type": "split",
+            "children": [
+              {
+                "id": "fdbe10a9051d53fa",
+                "type": "tabs",
+                "dimension": 81.48148148148148,
+                "children": [
+                  {
+                    "id": "42ef6b1c62463d55",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01 HTB/Academy/02. Information Gathering/12. Information Gathering - Web Edition/Information Gathering - Web Edition.md",
+                        "mode": "preview",
+                        "source": true
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "ac3895f511288147",
+                "type": "split",
+                "dimension": 18.51851851851852,
+                "children": [
+                  {
+                    "id": "7983cb291e38ea9c",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "675547aef7a485ce",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "canvas",
+                          "state": {
+                            "file": "11 ROADMAPS/HTB Academy Roadmap.canvas",
+                            "viewState": {
+                              "x": -7688.227438608783,
+                              "y": -1163.0657630372864,
+                              "zoom": -2.796666666666667,
+                              "snapToGrid": true
+                            }
+                          },
+                          "pinned": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "4ce6e358957be8fb",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "aa9453e66433fdbb",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/DNS.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "113a420f02c7c383",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/FTP.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "dc3135170f94fc3a",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/IMAP POP3.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "0d62e86b5a12dab0",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/IPMI.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "5ce3652ee8af0f8e",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/MSSQL.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "f5a9a6208e3943e8",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/MySQL.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "900caab8e96df376",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/NFS.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "294dcbd2b2157994",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/REMOTE MANAGEMENT.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "ad5950aaa241798f",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/SMB.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "fde5f18a2954496f",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/SMTP.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "5927386015bd9d39",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "04 TACTICS/SNMP.md",
+                            "mode": "preview",
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "76b4b97d83ae72b6",
+        "type": "split",
+        "children": [
+          {
+            "id": "666bfc8c678605f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28c312cd65e2be84",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "43f9f0ffd66a0d5d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "broken authenti",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "76d4c2c20f7ae46e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f19c784c62f24332",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 389.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "0c799eff9ce64e70",
+        "type": "split",
+        "children": [
+          {
+            "id": "9742c9b00d58c373",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "917c0cd5d129cc2a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01 HTB/Academy/02. Information Gathering/12. Information Gathering - Web Edition/Information Gathering - Web Edition.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "0de81b41e1216049",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01 HTB/Academy/02. Information Gathering/12. Information Gathering - Web Edition/Information Gathering - Web Edition.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 675,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "42ef6b1c62463d55"
+    }
+  },
+  "active": "HTB Academy"
+}
